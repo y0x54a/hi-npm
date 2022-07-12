@@ -1,0 +1,9 @@
+{
+  "name": "hi-npm",
+  "description": "hi-npm",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/y0x54a/hi-npm.git"
+  }
+}
