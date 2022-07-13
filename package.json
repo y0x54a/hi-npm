@@ -2,6 +2,14 @@
   "name": "@y0x54a/hi-npm",
   "description": "@y0x54a/hi-npm",
   "version": "0.1.1",
+  "dependencies": {},
+  "devDependencies": {},
+  "main": "index.js",
+  "files": [
+    "README.md",
+    "CHANGELOG.md",
+    "package.json"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/y0x54a/hi-npm.git"
